@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practica 6</title>
+    <style>
+
+        /* 
+            Basado en: 
+            https://www.linkedin.com/feed/update/urn:li:activity:7114493692790345728/?utm_source=share&utm_medium=member_android
+
+            https://www.w3schools.com/howto/howto_css_transition_hover.asp
+
+            https://www.w3schools.com/cssref/css3_pr_flex-wrap.php
+            
+        */
+
+        .menu {
+            background-color: black;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .opcion {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #efefef;
+            border: 1px solid #ccc;
+            text-align: center;
+            padding: 20px;
+            flex-grow:1;
+            /*flex-basis: 200px; */ 
+            margin: 10px;
+            transition: 0.5s;
+        }
+
+        .opcion:hover {
+            background-color:cadetblue;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="menu">
+        <div class="opcion">Inicio</div>
+        <div class="opcion">Empresa</div>
+        <div class="opcion">Servicios</div>
+        <div class="opcion">Proyectos</div>
+        <div class="opcion">Contacto</div>
+    </div>
+    
+</body>
+</html>
