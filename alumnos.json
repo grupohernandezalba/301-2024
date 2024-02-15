@@ -26,8 +26,8 @@
     {
         "nombre" : "Josué",
         "apellidos" : "Amador Ynfante",
-         "participaciones" : 0,
-        "practicas" : 1,
+         "participaciones" : 1,
+        "practicas" : 2,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -43,7 +43,7 @@
         "nombre" : "Jorge Orlando",
         "apellidos" : "Andrade Hernández",
          "participaciones" : 0,
-        "practicas" : 1,
+        "practicas" : 2,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -51,15 +51,15 @@
         "nombre" : "Víctor Jassiel",
         "apellidos" : "Alonso Romero",
          "participaciones" : 1,
-        "practicas" : 0,
+        "practicas" : 2,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
         "nombre" : "Denisse",
         "apellidos" : "Chagoya Veloz",
-         "participaciones" : 0,
-        "practicas" : 1,
+         "participaciones" : 1,
+        "practicas" : 2,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -74,7 +74,7 @@
     {
         "nombre" : "Saúl Alberto",
         "apellidos" : "Guadarrama Delgado",
-         "participaciones" : 0,
+         "participaciones" : 1,
         "practicas" : 0,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
@@ -90,7 +90,7 @@
     {
         "nombre" : "Christopher",
         "apellidos" : "Rojas García",
-         "participaciones" : 0,
+         "participaciones" : 1,
         "practicas" : 0,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
@@ -106,7 +106,7 @@
     {
         "nombre" : "Carlos Manuel",
         "apellidos" : "Serrano Aguilar",
-         "participaciones" : 0,
+         "participaciones" : 1,
         "practicas" : 2,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
