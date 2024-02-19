@@ -1,34 +1,36 @@
-
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 header {
-    background-color: #efefef;
+    background-color: #f2f2f2;
     padding: 20px;
     text-align: center;
 }
 
 section {
-    background-color: #000;
-    color: #fff;
-}
-
-a {
-    color: #fff;
-    padding: 10px;
-}
-
-a:hover {
-    font-size: 20px;
-    background-color: red;
-
+    background-color: black;
+    color: white;
 }
 
 li {
     list-style: none;
-    padding: 10px;
+    padding: 20px;
+    text-align: center;
 }
-button{
-    background-color: aqua;
+
+img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    cursor: crosshair;
+}
+
+a:hover {
+    font-size: 40px;
+    color: yellow;
 }

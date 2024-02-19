@@ -51,14 +51,14 @@
     
                 html = '';
                 let contador = 0;
-                let totalPracticas = 2;
+                let totalPracticas = 5;
                 let totalParticipaciones = 1;
                 alumnos.forEach( function(alumno) {
     
     
                         if(!alumno.participaciones)
                             estado = ' ';
-    
+     
                         porcentajePracticas =  (alumno.practicas * 100 ) / totalPracticas; 
                         porcentajeParticipaciones =  (alumno.participaciones * 100 ) / totalParticipaciones; 
     
@@ -80,9 +80,11 @@
                                 <p><strong>${ alumno.equipo }</strong></p> 
                                 <div class='row'>
                                     <div class='col-6 ${ colorPracticas } fw-bold'>
+                                        <p>Prácticas</p>
                                         `+ alumno.practicas +`/`+ totalPracticas +` 
                                     </div>
                                     <div class='col-6 ${ colorParticipaciones } fw-bold'>
+                                        <p>Participaciones</p>
                                         `+ alumno.participaciones +`
                                     </div>
                                 </div>
