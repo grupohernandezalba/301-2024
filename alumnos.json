@@ -4,7 +4,7 @@
         "apellidos" : "Almanza Contreras",
          "participaciones" : 1,
         "practicas" : 5,
-        "foto" : "imagenes/sin-imagen.png",
+        "foto" : "imagenes/jose-de-jesus-almanza.webp",
         "equipo" : "NA"
     },
     {
@@ -27,7 +27,7 @@
         "nombre" : "Josué",
         "apellidos" : "Amador Ynfante",
          "participaciones" : 1,
-        "practicas" : 2,
+        "practicas" : 5,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -36,7 +36,7 @@
         "apellidos" : "Anaya Parada",
          "participaciones" : 2,
         "practicas" : 5,
-        "foto" : "imagenes/sin-imagen.png",
+        "foto" : "imagenes/luis-felipe.webp",
         "equipo" : "NA"
     },
     {
@@ -107,7 +107,7 @@
         "nombre" : "Carlos Manuel",
         "apellidos" : "Serrano Aguilar",
          "participaciones" : 1,
-        "practicas" : 2,
+        "practicas" : 5,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     }
