@@ -1,0 +1,57 @@
+body {
+    width: 100%;
+    font-family: Arial, sans-serif;
+    background: rgb(190,195,255);
+    background: radial-gradient(circle, rgba(190,195,255,1) 31%, rgba(110,33,191,1) 89%);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#menu {
+     display: flex;
+     flex: wrap;
+     background-color: yellow;
+}
+
+.opcion {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 20px;
+    flex-grow: 1;
+    margin: 10px;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    font-size: 14px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-bottomright: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.opcion:hover {
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    box-shadow: 18px 18px 56px -15px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 18px 18px 56px -15px rgba(0,0,0,0.75);
+    -moz-box-shadow: 18px 18px 56px -15px rgba(0,0,0,0.75);
+    transition: 0.5s ease-in-out; 
+
+}
+
+.magicpattern { 
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat;
+    background-image: url("data:image/svg+xml;utf8,%3Csvg width=%222000%22 height=%221400%22 xmlns=%22http:%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cdefs%3E%3ClinearGradient id=%22a%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%238cd7de%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23a8e1e6%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22b%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23afdcd6%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23c3e4e0%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22c%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23d0e1cf%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23dbe8db%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22d%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23e5c99f%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23ebd6b7%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22e%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23f09346%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23f3ae74%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22f%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23f67a1b%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23f89b54%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22g%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23fa6900%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23fb8e3f%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath fill=%22%2369d2e7%22 d=%22M0 0h2000v1400H0z%22%2F%3E%3Cpath d=%22M0 175c124.276-5.959 248.553-11.918 354-7 105.447 4.918 192.065 20.711 302 20 109.935-.711 243.187-17.928 355-27 111.813-9.072 202.187-9.999 301-5 98.813 4.999 206.065 15.923 335 16 128.935.077 279.553-10.692 342-12 62.447-1.308 36.724 6.846 51 15l-40 1225H0Z%22 fill=%22url(%23a)%22%2F%3E%3Cpath d=%22M0 350c103.173-15.834 206.346-31.667 320-23 113.654 8.667 237.789 41.836 357 44 119.211 2.164 233.499-26.677 342-35s211.217 3.872 315 11c103.783 7.128 208.634 9.188 338 3 129.366-6.188 283.247-20.625 342-22 58.753-1.375 22.376 10.313 26 22l-40 1050H0Z%22 fill=%22url(%23b)%22%2F%3E%3Cpath d=%22M0 525c114.123-11.48 228.246-22.961 338-24 109.754-1.039 215.138 8.364 322 13 106.862 4.636 215.203 4.505 333 9s245.049 13.617 354 15c108.951 1.383 199.602-4.974 316-8s258.542-2.722 319-3c60.458-.278 39.229-1.14 58-2l-40 875H0Z%22 fill=%22url(%23c)%22%2F%3E%3Cpath d=%22M0 700c114.372 8.202 228.744 16.404 341 13s222.397-18.414 327-18c104.603.414 203.67 16.252 319 25 115.33 8.748 246.924 10.407 363 3s216.636-23.879 331-27c114.364-3.121 242.533 7.108 298 10 55.467 2.892 38.234-1.554 61-6l-40 700H0Z%22 fill=%22url(%23d)%22%2F%3E%3Cpath d=%22M0 875c122.45-7.293 244.9-14.586 352-12 107.1 2.586 198.848 15.051 306 22 107.152 6.949 229.706 8.381 348 0 118.294-8.381 232.326-26.576 334-24 101.674 2.576 190.99 25.924 319 26 128.01.076 294.717-23.121 358-29 63.283-5.879 23.141 5.56 23 17l-40 525H0Z%22 fill=%22url(%23e)%22%2F%3E%3Cpath d=%22M0 1050c115.483-9.992 230.966-19.984 345-24 114.034-4.016 226.62-2.058 334-1 107.38 1.058 209.555 1.214 317 5s220.16 11.2 327 23 207.803 27.985 340 20c132.197-7.985 295.628-40.138 357-48 61.372-7.862 20.686 8.57 20 25l-40 350H0Z%22 fill=%22url(%23f)%22%2F%3E%3Cpath d=%22M0 1225c115.98 8.383 231.96 16.765 339 21 107.04 4.235 205.138 4.321 309 3 103.862-1.321 213.488-4.05 337-11s260.91-18.12 366-17c105.09 1.12 177.87 14.532 294 20s275.608 2.99 342-1 39.696-9.495 53-15l-40 175H0Z%22 fill=%22url(%23g)%22%2F%3E%3C%2Fsvg%3E");
+  }
+  
+  
