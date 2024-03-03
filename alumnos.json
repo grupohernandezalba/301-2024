@@ -1,7 +1,7 @@
 [
     {
         "nombre" : "José de Jesús",
-        "apellidos" : "Almanza Contreras",
+        "apellidos" : "Almanza Contreras (falto subir 7y8)",
          "participaciones" : 3,
         "practicas" : 8,
         "foto" : "imagenes/jose-de-jesus-almanza.webp",
@@ -49,9 +49,9 @@
     },
     {
         "nombre" : "Víctor Jassiel",
-        "apellidos" : "Alonso Romero",
+        "apellidos" : "Alonso Romero (falto subir liga github)",
          "participaciones" : 1,
-        "practicas" : 10,
+        "practicas" : 9,
         "foto" : "imagenes/victor.webp",
         "equipo" : "NA"
     },
@@ -73,15 +73,15 @@
     },
     {
         "nombre" : "Saúl Alberto",
-        "apellidos" : "Guadarrama Delgado",
+        "apellidos" : "Guadarrama Delgado (falto subir liga github, 7 y 8)",
          "participaciones" : 1,
-        "practicas" : 8,
+        "practicas" : 7,
         "foto" : "imagenes/saul.webp",
         "equipo" : "NA"
     },
     {
         "nombre" : "Saray Alexandra",
-        "apellidos" : "Martínez",
+        "apellidos" : "Martínez (falto subir 6,7 y 8)",
          "participaciones" : 2,
         "practicas" : 7,
         "foto" : "imagenes/saray.webp",
@@ -89,7 +89,7 @@
     }, 
     {
         "nombre" : "Christopher",
-        "apellidos" : "Rojas García",
+        "apellidos" : "Rojas García (falto subir liga github,  1,2,3,4,5,6)",
          "participaciones" : 1,
         "practicas" : 2,
         "foto" : "imagenes/cris.webp",
