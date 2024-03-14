@@ -1,9 +1,9 @@
 [
     {
-        "nombre" : "José de Jesús",
+        "nombre" : "José de Jesús 10",
         "apellidos" : "Almanza Contreras (falto subir 7y8)",
          "participaciones" : 3,
-        "practicas" : 8,
+        "practicas" : 9,
         "foto" : "imagenes/jose-de-jesus-almanza.webp",
         "equipo" : "NA"
     },
@@ -11,68 +11,68 @@
         "nombre" : "Greys Alexa EXENTO",
         "apellidos" : "Almanza Vega",
          "participaciones" : 2,
-        "practicas" : 10,
+        "practicas" : 11,
         "foto" : "imagenes/greys.webp",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Pablo Emilio",
+        "nombre" : "Pablo Emilio 10",
         "apellidos" : "Alonso Romero",
          "participaciones" : 1,
-        "practicas" : 10,
+        "practicas" : 11,
         "foto" : "imagenes/pablo.webp",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Josué",
+        "nombre" : "Josué  10",
         "apellidos" : "Amador Ynfante",
          "participaciones" : 1,
-        "practicas" : 10,
+        "practicas" : 11,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Luis Felipe",
+        "nombre" : "Luis Felipe 10",
         "apellidos" : "Anaya Parada",
          "participaciones" : 2,
-        "practicas" : 10,
+        "practicas" : 11,
         "foto" : "imagenes/luis-felipe.webp",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Jorge Orlando",
+        "nombre" : "Jorge Orlando 10",
         "apellidos" : "Andrade Hernández",
          "participaciones" : 1,
-        "practicas" : 10,
+        "practicas" : 11,
         "foto" : "imagenes/orlando.webp",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Víctor Jassiel",
+        "nombre" : "Víctor Hassiel --10",
         "apellidos" : "Alonso Romero (falto subir liga github)",
          "participaciones" : 1,
-        "practicas" : 9,
+        "practicas" :11,
         "foto" : "imagenes/victor.webp",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Denisse",
+        "nombre" : "Denisse 10",
         "apellidos" : "Chagoya Veloz",
          "participaciones" : 1,
-        "practicas" : 10,
+        "practicas" : 11,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Leonardo Gael",
+        "nombre" : "Leonardo Gael 10",
         "apellidos" : "Durán Torres",
          "participaciones" : 1,
-        "practicas" : 10,
+        "practicas" : 11,
         "foto" : "imagenes/leo.webp",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Saúl Alberto",
+        "nombre" : "Saúl Alberto ---9 ",
         "apellidos" : "Guadarrama Delgado (falto subir liga github, 7 y 8)",
          "participaciones" : 1,
         "practicas" : 7,
@@ -80,7 +80,7 @@
         "equipo" : "NA"
     },
     {
-        "nombre" : "Saray Alexandra",
+        "nombre" : "Saray Alexandra --8",
         "apellidos" : "Martínez (falto subir 6,7 y 8)",
          "participaciones" : 2,
         "practicas" : 7,
@@ -88,7 +88,7 @@
         "equipo" : "NA"
     }, 
     {
-        "nombre" : "Christopher",
+        "nombre" : "Christopher --  8",
         "apellidos" : "Rojas García (falto subir liga github,  1,2,3,4,5,6)",
          "participaciones" : 1,
         "practicas" : 2,
@@ -96,7 +96,7 @@
         "equipo" : "NA"
     },
     {
-        "nombre" : "Diego Sebastián",
+        "nombre" : "Diego Sebastián -- 9",
         "apellidos" : "Rojas Guerrero",
          "participaciones" : 2,
         "practicas" : 10,
@@ -107,7 +107,7 @@
         "nombre" : "Carlos Manuel EXENTO",
         "apellidos" : "Serrano Aguilar",
          "participaciones" : 1,
-        "practicas" : 10,
+        "practicas" : 11,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     }
