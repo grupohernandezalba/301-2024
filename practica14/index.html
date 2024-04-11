@@ -6,76 +6,7 @@
     <title>Practica 14 JS</title>
 </head>
 <body>
-    <h1>Variables y Objetos JS</h1>
-    <script>
-
-        let numero = 100;
-        let texto = "Hola mundo";
-        let texto2 = 'Hola mundo 2';
-        let booleano = true;
-        let arreglo = [1, 2, 3, 4, 5];
-        let arregloCadenas = ["Hola", "Mundo cruel", "Adios La Salle"];
-        console.log(arregloCadenas);
-        let arregloMixto = [1, "Hola", true, 3.14];
-        console.log(arregloMixto[3]);
-
-        arregloMixto[1] = "Mundo";
-
-        console.log(arregloMixto);
-
-        let objeto = {
-            nombre : "Juan",
-            edad: 25,
-            soltero: true
-        };
-
-        let estudiante = {
-            nombre : "Andres",
-            matricula : "78886",
-            carrera : "Ingenieria en Sistemas",
-            materias : ["Programacion", "Base de Datos", "Redes"],
-            amigos : [{
-                nombre : "Andres TS",
-                edad : 21
-            },
-            {
-                nombre : "Joaquin",
-                edad : 32
-            }
-            ]
-        };
-        console.log(estudiante.matricula);
-        console.log(estudiante.materias[2]); 
-        console.log(estudiante.amigos.edad);
-        console.log(estudiante.amigos[1].edad);
-
-
-        const carro = {
-            tipo : "Tesla",
-            modelo : "Model 3",
-            color : "rojo"
-        }
-
-        let variable = 10;
-        let variable2 = "Hola";
-        let variable3 = true;
-        let var4 = null;
-        let var5 = [1, 2, 3, 4, 5];
-        console.log("Tipo: ", typeof variable2);
-        console.log("Tipo: ", typeof variable3);
-        console.log("Tipo Nulo: ", typeof var4);
-        console.log("Tipo arreglo: ", typeof var5);
-        console.log("Modelo", carro.modelo );
-        console.log("Modelo", carro["modelo"] );
-
-
-        let saludo;
-        console.log(saludo);
-        let hora = new Date().getHours();
-        console.log(hora);
-        
-
-    </script>
-
+    <h1>Variables y objetos en JS</h1>
+    <script src="js/index.js"></script>
 </body>
 </html>

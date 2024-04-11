@@ -50,7 +50,7 @@
     {
         "nombre" : "Víctor Hassiel",
         "apellidos" : "Alonso Romero",
-        "participaciones" : 0,
+        "participaciones" : 1,
         "practicas" : 0,
         "foto" : "imagenes/victor.webp",
         "equipo" : "NA"
@@ -74,7 +74,7 @@
     {
         "nombre" : "Saúl Alberto",
         "apellidos" : "Guadarrama Delgado",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 1,
         "foto" : "imagenes/saul.webp",
         "equipo" : "NA"
@@ -90,7 +90,7 @@
     {
         "nombre" : "Christopher",
         "apellidos" : "Rojas García",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 4,
         "foto" : "imagenes/cris.webp",
         "equipo" : "NA"
