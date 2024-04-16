@@ -3,7 +3,7 @@
         "nombre" : "José de Jesús",
         "apellidos" : "Almanza Contreras",
         "participaciones" : 2,
-        "practicas" : 6,
+        "practicas" : 8,
         "foto" : "imagenes/jose-de-jesus-almanza.webp",
         "equipo" : "NA"
     },
@@ -11,7 +11,7 @@
         "nombre" : "Greys Alexa",
         "apellidos" : "Almanza Vega",
         "participaciones" : 0,
-        "practicas" : 5,
+        "practicas" : 7,
         "foto" : "imagenes/greys.webp",
         "equipo" : "NA"
     },
@@ -19,7 +19,7 @@
         "nombre" : "Pablo Emilio",
         "apellidos" : "Alonso Romero",
         "participaciones" : 1,
-        "practicas" : 6,
+        "practicas" : 8,
         "foto" : "imagenes/pablo.webp",
         "equipo" : "NA"
     },
@@ -35,7 +35,7 @@
         "nombre" : "Luis Felipe",
         "apellidos" : "Anaya Parada",
         "participaciones" : 1,
-        "practicas" : 6,
+        "practicas" : 8,
         "foto" : "imagenes/luis-felipe.webp",
         "equipo" : "NA"
     },
@@ -43,7 +43,7 @@
         "nombre" : "Jorge Orlando",
         "apellidos" : "Andrade Hernández",
         "participaciones" : 1,
-        "practicas" : 6,
+        "practicas" : 8,
         "foto" : "imagenes/orlando.webp",
         "equipo" : "NA"
     },
@@ -51,7 +51,7 @@
         "nombre" : "Víctor Hassiel",
         "apellidos" : "Alonso Romero",
         "participaciones" : 1,
-        "practicas" : 6,
+        "practicas" : 8,
         "foto" : "imagenes/victor.webp",
         "equipo" : "NA"
     },
@@ -67,7 +67,7 @@
         "nombre" : "Leonardo Gael",
         "apellidos" : "Durán Torres",
         "participaciones" : 1,
-        "practicas" : 6,
+        "practicas" : 8,
         "foto" : "imagenes/leo.webp",
         "equipo" : "NA"
     },
@@ -83,7 +83,7 @@
         "nombre" : "Saray Alexandra",
         "apellidos" : "Martínez",
         "participaciones" : 1,
-        "practicas" : 5,
+        "practicas" : 7,
         "foto" : "imagenes/saray.webp",
         "equipo" : "NA"
     }, 
@@ -99,7 +99,7 @@
         "nombre" : "Diego Sebastián",
         "apellidos" : "Rojas Guerrero",
         "participaciones" : 3,
-        "practicas" : 5,
+        "practicas" : 7,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
