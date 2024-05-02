@@ -1,41 +1,44 @@
+    let hora = 20;
 
-    hora = 14;
-    if( hora < 12) {
-        console.log("Buenos días");
-    } else if (hora < 19) {
+    if( hora < 12 ) {
+        console.log("Buenos dias");
+    } else if( hora < 19 ) {
         console.log("Buenas tardes");
-    } else {
-        console.log("Buenas noches");
+    }  else {
+        console.log("Buenos noches");
     }
 
     let diaDeLaSemana = new Date().getDay();
+
     console.log(diaDeLaSemana);
 
-    //diaDeLaSemana = 5; 
-
-    switch(diaDeLaSemana) {
-        case 0:
+    switch(diaDeLaSemana){
+        case 0: 
             console.log("Domingo");
             break;
-        case 1:
+        case 1: 
             console.log("Lunes");
             break;
-        case 2:
+        case 2: 
             console.log("Martes");
             break;
-        case 3:
-            console.log("Miércoles");
+        case 3: 
+            console.log("Miercoles");
             break;
-        case 4:
+        case 4: 
             console.log("Jueves");
             break;
-        case 5:
+        case 5: 
             console.log("Viernes");
             break;
-        case 6:
-            console.log("Sábado");
+        case 6: 
+            console.log("Sabado");
             break;
         default:
-            console.log("Día no válido");
-            break;
+            console.log("Dia no valido");
     }
+    
+
+
+    
+
