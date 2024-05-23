@@ -2,113 +2,113 @@
     {
         "nombre" : "José de Jesús",
         "apellidos" : "Almanza Contreras",
-        "participaciones" : 0,
-        "practicas" : 5,
+        "participaciones" : 3,
+        "practicas" : 14,
         "foto" : "imagenes/jose-de-jesus-almanza.webp",
-        "equipo" : ""
+        "equipo" : "10"
     },
     {
         "nombre" : "Greys Alexa",
         "apellidos" : "Almanza Vega",
-        "participaciones" : 0,
-        "practicas" : 5,
+        "participaciones" : 1,
+        "practicas" : 14,
         "foto" : "imagenes/greys.webp",
-        "equipo" : ""
+        "equipo" : "10"
     },
     {
         "nombre" : "Pablo Emilio",
         "apellidos" : "Alonso Romero",
-        "participaciones" : 0,
-        "practicas" : 5,
+        "participaciones" : 2,
+        "practicas" : 14,
         "foto" : "imagenes/pablo.webp",
-        "equipo" : ""
+        "equipo" : "10"
     },
     {
         "nombre" : "Josué",
         "apellidos" : "Amador Ynfante",
-        "participaciones" : 0,
-        "practicas" : 5,
+        "participaciones" : 1,
+        "practicas" : 10,
         "foto" : "imagenes/sin-imagen.png",
-        "equipo" : ""
+        "equipo" : "8"
     },
     {
         "nombre" : "Luis Felipe",
         "apellidos" : "Anaya Parada",
-        "participaciones" : 0,
-        "practicas" : 5,
+        "participaciones" : 1,
+        "practicas" : 14,
         "foto" : "imagenes/luis-felipe.webp",
-        "equipo" : ""
+        "equipo" : "10"
     },
     {
         "nombre" : "Jorge Orlando",
         "apellidos" : "Andrade Hernández",
-        "participaciones" : 0,
-        "practicas" : 1,
+        "participaciones" : 1,
+        "practicas" : 14,
         "foto" : "imagenes/orlando.webp",
-        "equipo" : ""
+        "equipo" : "10"
     },
     {
         "nombre" : "Víctor Hassiel",
         "apellidos" : "Alonso Romero",
-        "participaciones" : 0,
-        "practicas" : 1,
+        "participaciones" : 2,
+        "practicas" : 12,
         "foto" : "imagenes/victor.webp",
-        "equipo" : ""
+        "equipo" : "9"
     },
     {
         "nombre" : "Denisse",
         "apellidos" : "Chagoya Veloz",
-        "participaciones" : 0,
-        "practicas" : 5,
+        "participaciones" : 1,
+        "practicas" : 14,
         "foto" : "imagenes/sin-imagen.png",
-        "equipo" : ""
+        "equipo" : "10"
     },
     {
         "nombre" : "Leonardo Gael",
         "apellidos" : "Durán Torres",
-        "participaciones" : 0,
-        "practicas" : 4,
+        "participaciones" : 1,
+        "practicas" : 14,
         "foto" : "imagenes/leo.webp",
-        "equipo" : ""
+        "equipo" : "10"
     },
     {
         "nombre" : "Saúl Alberto",
         "apellidos" : "Guadarrama Delgado",
-        "participaciones" : 0,
-        "practicas" : 4,
+        "participaciones" : 3,
+        "practicas" : 13,
         "foto" : "imagenes/saul.webp",
-        "equipo" : ""
+        "equipo" : "9"
     },
     {
         "nombre" : "Saray Alexandra",
         "apellidos" : "Martínez",
-        "participaciones" : 0,
-        "practicas" : 1,
+        "participaciones" : 1,
+        "practicas" : 14,
         "foto" : "imagenes/saray.webp",
-        "equipo" : ""
+        "equipo" : "9"
     }, 
     {
         "nombre" : "Christopher",
         "apellidos" : "Rojas García",
-        "participaciones" : 0,
-        "practicas" : 1,
+        "participaciones" : 2,
+        "practicas" : 7,
         "foto" : "imagenes/cris.webp",
-        "equipo" : ""
+        "equipo" : "8"
     },
     {
         "nombre" : "Diego Sebastián",
         "apellidos" : "Rojas Guerrero",
-        "participaciones" : 0,
-        "practicas" : 5,
+        "participaciones" : 4,
+        "practicas" : 13,
         "foto" : "imagenes/sin-imagen.png",
-        "equipo" : ""
+        "equipo" : "9"
     },
     {
         "nombre" : "Carlos Manuel",
         "apellidos" : "Serrano Aguilar",
-        "participaciones" : 0,
-        "practicas" : 0,
+        "participaciones" : 2,
+        "practicas" : 7,
         "foto" : "imagenes/sin-imagen.png",
-        "equipo" : ""
+        "equipo" : "10"
     }
 ]

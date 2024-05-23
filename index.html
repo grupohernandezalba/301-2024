@@ -72,7 +72,7 @@
     
                 html = '';
                 let contador = 0;
-                let totalPracticas = 13;
+                let totalPracticas = 1;
                 let totalParticipaciones = 1;
                 alumnos.forEach( function(alumno) {
     
@@ -102,12 +102,14 @@
                                 <div class='row'>
                                     <div class='col-6 ${ colorPracticas } fw-bold'>
                                         <p>Prácticas</p>
-                                        `+ alumno.practicas +`/`+ totalPracticas +` 
+                                        `+ alumno.practicas + ` 
                                     </div>
+                                    <!--
                                     <div class='col-6 ${ colorParticipaciones } fw-bold'>
                                         <p>Participaciones</p>
                                         `+ alumno.participaciones +`
                                     </div>
+                                    -->
                                 </div>
                                 <!--
                                 <div class='row'>

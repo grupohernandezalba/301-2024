@@ -1,21 +1,19 @@
+let resultado =  document.getElementById('resultado');
 
-    let resultado = document.getElementById('resultado');
+let asignar = (valor) => resultado.value += valor;
 
-    const asignar = (valor) =>{
-        //ShortHand
-        resultado.value += valor;
-    }
 
-    let calcular = () => {
+function calcular(){
+    if(resultado.value != '')
         resultado.value = eval(resultado.value);
-    }
+    else    
+        alert('ingrese un valor');
+}
 
-    let limpiar = () => {
-        resultado.value = "";
-    }
+let limpiar = () => resultado.value = '';
 
-    let borrar = () => {
-        resultado.value = resultado.value.substring(0,resultado.value.length-1);
-    }
 
-    
+
+// RETO HACER CALCULADORA CIENTIFICA -- MINIMO 3 OPERACIONES RAIZ CUADRADA, SIN, COS, TAN 
+//CON HISTORIAL
+
