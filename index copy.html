@@ -74,6 +74,13 @@
                 let contador = 0;
                 let totalPracticas = 1;
                 let totalParticipaciones = 1;
+
+
+
+                alumnos.sort((a,b) => b.practicas - a.practicas);
+
+                console.log("ALUMNOS:",alumnos);
+
                 alumnos.forEach( function(alumno) {
     
     

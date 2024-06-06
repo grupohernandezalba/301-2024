@@ -1,9 +1,10 @@
 let listaProductos = document.querySelector("#listaProductos");
 let listaCategorias = document.querySelector("#listaCategorias");
 let carrito = [];
-const URL = "https://fakestoreapi.com/products/";
+const URLPRODUCTOS = "http://localhost:3000/productos"; // la liga se llama endpoint
+const URLCATEGORIAS = "https://fakestoreapi.com/products/categories";
 
-fetch(URL)
+fetch(URLPRODUCTOS)
     .then(res=>res.json())
     .then( productosObtenidos => { 
         console.log(productosObtenidos);
@@ -23,4 +24,25 @@ fetch(URL)
                 </div>
             `;
         });
+    });
+
+    fetch(URLCATEGORIAS)
+    .then(res=>res.json())
+    .then( categoriasObtenidas => { 
+        console.log(categoriasObtenidas);
+
+        listaCategorias.innerHTML = "";
+        categoriasObtenidas.forEach( (categoria, indice) => {
+            
+            categoria = categoria.replace("'","");
+
+            listaCategorias.innerHTML += ` 
+                <li class="nav-item">
+                    <a href="#" onclick="muestraProductos('${ categoria }')" class="nav-link" >
+                        ${ categoria.toUpperCase() }
+                    </a>
+                </li>
+            `;
+        });
+  
     });
